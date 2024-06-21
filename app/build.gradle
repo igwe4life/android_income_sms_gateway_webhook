@@ -5,11 +5,11 @@ android {
     buildToolsVersion "30.0.3"
 
     defaultConfig {
-        applicationId "tech.bogomolov.incomingsmsgateway"
+        applicationId "com.platinum.textrelay"
         minSdkVersion 14
         targetSdkVersion 33
-        versionCode 12
-        versionName "2.3.0"
+        versionCode 1
+        versionName "0.0.1"
 
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
     }
